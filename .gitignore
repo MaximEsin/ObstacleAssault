@@ -1,6 +1,11 @@
 # Visual Studio 2015+ cache/options directory
 .vs/
 
+# VS Code project files (regenerated per machine, contain absolute local paths
+# to the engine install - right click .uproject -> "Generate VS Code project files")
+.vscode/
+*.code-workspace
+
 # Compiled and intermediate files
 Binaries/
 Build/
